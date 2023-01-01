@@ -1,0 +1,157 @@
+
+#title{
+    background-color: #ff4c68;
+}
+#titlee{
+    background-color: #ff4c68;
+    
+}
+.head{
+    background-color: #ff4c68;
+    height: 500px;
+}
+#contain{
+    padding: 3% 15% 0%
+    
+}
+.navbar{
+    margin-bottom: 10%;
+}
+h1{
+    
+    padding-bottom: 10%;
+}
+#meet{
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10%;
+    color: #fff;
+}
+
+.dog{
+    transform: rotate(30deg)
+    
+}
+.dog{
+    position: absolute;
+    margin-top: 1%;
+   
+}
+.navbar-brand{
+    font-weight: bold;
+    
+}
+.nav-item{
+    padding: 0 18px;
+}
+#feat{
+    
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    z-index: 1;
+}
+.col-lg-4 {
+    text-align: center;  
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(110, 110, 110);
+}
+.fa-solid{
+    color: rgb(226, 125, 58);
+    margin-bottom: 10%;
+    
+}
+#btnn{
+    margin-left: 5%;
+}
+.fa-solid:hover{
+    color: #ff4c68;
+}
+.test{
+    padding: 5% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    
+    color: #fff;
+}
+.testimonial-logo{
+    width: 20%;
+    padding-left: 3%;
+   
+}
+.test-logo{
+    padding: 6% 15%;
+    text-align: center;
+    background-color: #ef8172;
+}
+.dogo{
+    border-radius: 100%;
+    width: 15%;
+    
+}
+.test-state{
+    font-weight: bold;
+    padding-bottom: 5%;
+}
+.testimonial-image{
+    border-radius: 100%;
+   
+    width: 15%;}
+#pricing{
+    padding: 7% 10%;
+}
+.plan{
+    text-align: center;
+    padding-bottom: 10%;
+}
+.cta{
+    background-color: #ff4c68;
+    height: 400px;
+    padding: 3% 15%;
+}
+.say{
+    font-size: 3rem;
+    text-align: center;
+    color: #fff;
+    font-family: 'Ubuntu', sans-serif;
+}
+.lstbtn{
+   
+    background-color: #ff4c68;
+    text-align: center;
+    margin-top: 5%;
+}
+.lstbtnn{   
+    margin-left: 3%;
+}
+footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.faa{
+    margin-right: 3%;
+}
+@media (max-width:990px) {
+    .dog{
+        position: static;
+        transform: rotate(0);
+    }
+    
+    
+}
+@media (max-width:990px) {
+    .head{
+        text-align: center;
+        height: 750px;
+    }
+    
+    
+}
